@@ -1,5 +1,5 @@
-### boas vindas ao meu perfil
-
+### Boas vindas ao meu perfil ̣🚙 :
+ 
  meu nome e ruan
 
   - estou estudando na [alura](https:www.alura.com.br)
